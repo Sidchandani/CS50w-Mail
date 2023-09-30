@@ -1,0 +1,22 @@
+textarea {
+    min-height: 400px;
+}
+.r-0{
+    right:10px;
+}
+.bold{
+    font-weight:bold;
+}
+.unread{
+    background-color: white;
+}
+.read{
+    background-color: rgb(240, 240, 240);
+}
+.c-p{
+    cursor: pointer;
+}
+pre{
+    font-family: -apple-system;
+    font-size: 1.1rem;
+}
